@@ -83,6 +83,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Senior Data Scientist, LATAM (Spanish required)](https://job-boards.greenhouse.io/dataiku/jobs/5532213004)** — _n/a_ _(posted 2025-05-03)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rlloutuggdwvprolzosi.webp" width="24" height="24" alt="Dataminr logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dataminr](https://jobo.world/company/Dataminr)
+
+* **[Software Engineer, Full Stack](https://dataminr.wd12.myworkdayjobs.com/dataminr/job/US-Remote/Software-Engineer--Full-Stack_JR1810)** — _n/a_ _(posted 2025-06-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/y1tseabvwxmu8boiolha.webp" width="24" height="24" alt="dbt Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[dbt Labs](https://jobo.world/company/dbtLabs)
 
 * **[Senior Software Engineer II](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4565085005)** — _n/a_ _(posted 2025-06-05)_
@@ -240,10 +244,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Don&#x27;t see what you&#x27;re looking for?  Join our Talent Network! (Data Engineering)](https://job-boards.greenhouse.io/recordedfuture/jobs/6765808002)** — _n/a_ _(posted 2025-03-30)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zznxo2xrsb1vzlwmdok0.webp" width="24" height="24" alt="Red Cell Partners logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Red Cell Partners](https://jobo.world/company/RedCellPartners)
-
-* **[Field Engineer (Government)](https://job-boards.greenhouse.io/redcellpartners/jobs/4722029007)** — _n/a_ _(posted 2025-04-30)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dc38htlnujhd1sx7rjjk.webp" width="24" height="24" alt="Replicant logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Replicant](https://jobo.world/company/Replicant)
 
 * **[Sales Engineer - Bilingual Spanish/English](https://jobs.ashbyhq.com/replicant/e5190f2f-be57-4243-a365-fc258ddfe035)** — _n/a_ _(posted 2025-06-01)_
@@ -264,6 +264,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ztchjewjetxet4seourr.webp" width="24" height="24" alt="Solace Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Solace Health](https://jobo.world/company/Solace-Health)
 
 * **[Python Data Engineer](https://jobs.ashbyhq.com/solace/f19207b3-5fad-4cd4-9a7e-5dd64fb78401)** — _n/a_ _(posted 2025-06-04)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/msxoxo4ksiqqz5qsape7.webp" width="24" height="24" alt="SpyCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SpyCloud](https://jobo.world/company/SpyCloud)
+
+* **[Security Engineer, Infrastructure Security](https://job-boards.greenhouse.io/spycloud/jobs/6605814003)** — _n/a_ _(posted 2025-06-13)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zudb6wgj2v9zfl4bikwt.webp" width="24" height="24" alt="Standard Metrics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Standard Metrics](https://jobo.world/company/Standard-Metrics)
 
@@ -301,10 +305,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[ML Engineer (Remote, NYC, Austin)](https://jobs.ashbyhq.com%2Ftrunk%2520tools%2F1cca011e-bc3e-4118-aa48-7c2008b7e2c1)** — ¤140,000 – ¤200,000 USD _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/igifoqrbvq9leputdp4b.webp" width="24" height="24" alt="Tubi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tubi](https://jobo.world/company/Tubi)
-
-* **[Data Engineer](https://job-boards.greenhouse.io/tubitv/jobs/6843451)** — ¤121,000 – ¤160,000 USD _(posted 2025-04-29)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hl8fe8wx2l2bblxnnty9.webp" width="24" height="24" alt="Twingate logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Twingate](https://jobo.world/company/Twingate)
 
 * **[Senior DevOps Engineer](https://jobs.lever.co/twingate/99575192-65df-4ae7-8b97-dcf62b93fd62)** — ¤170,000 – ¤200,000 USD _(posted 2025-03-04)_
@@ -323,4 +323,4 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
 
 ---
-_Updated automatically — 2025-06-13_
+_Updated automatically — 2025-06-14_
