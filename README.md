@@ -6,6 +6,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 ---
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jxzk52qwwc00ysw35zd8.webp" width="24" height="24" alt="Airtable logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Airtable](https://jobo.world/company/Airtable)
+
+* **[Developer Support Engineer](https://job-boards.greenhouse.io/airtable/jobs/7940694002)** — _n/a_ _(posted 2025-06-18)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nynfgxku2h5oy29qrpd4.webp" width="24" height="24" alt="Ampere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ampere](https://jobo.world/company/Ampere)
 
 * **[Senior Software Engineer - Full Stack](https://jobs.ashbyhq.com/amper/0764e220-9af6-402f-8ebf-ce6ffdd296bf)** — _n/a_ _(posted 2025-03-12)_
@@ -24,7 +28,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ufu9ybmv5kierbneyd6z.webp" width="24" height="24" alt="Axsome Therapeutics Inc logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Axsome Therapeutics Inc](https://jobo.world/company/Axsome-Therapeutics-Inc)
 
-* **[Software Engineer II/Sr Software Engineer (US)](https://jobs.ashbyhq.com/iambic-therapeutics/d60ce453-d384-4887-b603-f3c10dd9c1ed)** — ¤135,000 – ¤190,000 USD _(posted 2025-04-25)_
 * **[Software Data Engineer](https://jobs.ashbyhq.com/iambic-therapeutics/ae0e2334-7250-4291-85b9-33b4e322d158)** — _n/a_ _(posted 2025-04-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ph6ruwagmcxam6qc1xb9.webp" width="24" height="24" alt="Baseten logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Baseten](https://jobo.world/company/Baseten)
@@ -49,6 +52,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Senior IT Systems Engineer](https://jobs.ashbyhq.com/chainlink-labs/08369cd7-4c3b-48e6-95fd-b06f42f6a43a)** — _n/a_ _(posted 2025-05-17)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yrhltbcatnpx6bjoymt2.webp" width="24" height="24" alt="Clairo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clairo](https://jobo.world/company/Clairo)
+
+* **[Principal Software Engineer I](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/North-Carolina-Remote/Principal-Software-Engineer-I_R16034)** — _n/a_ _(posted 2025-06-16)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yamvkbjbwaijbnwtithj.webp" width="24" height="24" alt="ClassDojo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ClassDojo](https://jobo.world/company/ClassDojo)
 
 * **[Senior Product Engineer](https://job-boards.greenhouse.io/classdojo/jobs/6923091)** — _n/a_ _(posted 2025-05-28)_
@@ -65,10 +72,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Product Operations Engineer](https://jobs.ashbyhq.com/coder/a21249ca-f8c1-4123-a68f-23e309bc950e)** — ¤113,000 – ¤194,000 USD _(posted 2025-05-07)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hls9a14lzek1zhhs6w21.webp" width="24" height="24" alt="Cointracker logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cointracker](https://jobo.world/company/Cointracker)
-
-* **[Principal Software Engineer](https://jobs.ashbyhq.com/cointracker/7e76933d-9032-4c43-80fb-1504e0a03ad9)** — _n/a_ _(posted 2025-03-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nn8w1ziebojue21faiqg.webp" width="24" height="24" alt="Collaborative Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Collaborative Robotics](https://jobo.world/company/Collaborative-Robotics)
 
 * **[Deployment Engineer](https://boards.greenhouse.io/collaborativerobotics/jobs/4711710007)** — _n/a_ _(posted 2025-04-18)_
@@ -84,11 +87,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pbekjf3dglwnuawekmds.webp" width="24" height="24" alt="Dataiku logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dataiku](https://jobo.world/company/Dataiku)
 
 * **[Senior Data Scientist, LATAM (Spanish required)](https://job-boards.greenhouse.io/dataiku/jobs/5532213004)** — _n/a_ _(posted 2025-05-03)_
-* **[Senior Data Scientist](https://job-boards.greenhouse.io/dataiku/jobs/5528196004)** — _n/a_ _(posted 2025-04-30)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rlloutuggdwvprolzosi.webp" width="24" height="24" alt="Dataminr logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dataminr](https://jobo.world/company/Dataminr)
-
-* **[Software Engineer, Full Stack](https://dataminr.wd12.myworkdayjobs.com/dataminr/job/US-Remote/Software-Engineer--Full-Stack_JR1810)** — _n/a_ _(posted 2025-06-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/y1tseabvwxmu8boiolha.webp" width="24" height="24" alt="dbt Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[dbt Labs](https://jobo.world/company/dbtLabs)
 
@@ -146,17 +144,9 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Senior Software Engineer, API](https://job-boards.greenhouse.io/hs/jobs/6564350)** — ¤130,000 – ¤180,000 USD _(posted 2025-05-15)_
 * **[Software Engineer, API](https://job-boards.greenhouse.io/hs/jobs/6786108)** — ¤120,000 – ¤160,000 USD _(posted 2025-05-15)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qhjqtpblwcorcocaldpz.webp" width="24" height="24" alt="Headway logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headway](https://jobo.world/company/Headway)
-
-* **[Engineering Manager (Claims Platform)](https://job-boards.greenhouse.io/headway/jobs/5477989004)** — _n/a_ _(posted 2025-04-26)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r8wyh0t63j5qd7mgovoj.webp" width="24" height="24" alt="HealthJoy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[HealthJoy](https://jobo.world/company/HealthJoy)
 
 * **[Manager, Engineering](https://job-boards.greenhouse.io/healthjoy/jobs/8015473002)** — _n/a_ _(posted 2025-05-30)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gohkbudztext6mmluwuc.webp" width="24" height="24" alt="Hive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hive](https://jobo.world/company/HiveAI)
-
-* **[DevOps Engineer](https://jobs.ashbyhq.com/hiive/79e38879-4978-4c9f-ad66-d2b5146c9bf6)** — ¤135,000 – ¤160,000 CAD _(posted 2025-05-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
 
@@ -176,12 +166,20 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjgangrpf64vx7s78vmf.webp" width="24" height="24" alt="Jellyfish logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jellyfish](https://jobo.world/company/Jellyfish)
 
-* **[Staff Full Stack Engineer](https://jobs.ashbyhq.com/jellyfish/5357b6d1-bc12-4d7b-afda-81c14bd2538f)** — _n/a_ _(posted 2025-03-12)_
 * **[Full Stack Engineer](https://jobs.ashbyhq.com/jellyfish/adced034-5f84-409d-9dab-5d45461bd8eb)** — _n/a_ _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
+
+* **[Software Engineer I (San Francisco)](https://jobs.ashbyhq.com/jerry/266b0e9f-d33f-4eab-893c-f600c0b934d5)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bropegpbvpqs2ju3a360.webp" width="24" height="24" alt="Knock logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Knock](https://jobo.world/company/Knock)
 
 * **[Platform Engineer](https://jobs.ashbyhq.com/knock/beee9279-e40a-4944-ab20-dd473998b429)** — _n/a_ _(posted 2025-06-04)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
+
+* **[Senior Software Engineer](https://job-boards.greenhouse.io/kunai/jobs/4755843007)** — ¤140,000 – ¤175,000 USD _(posted 2025-06-18)_
+* **[Sr. Full Stack Engineer - Python, React, AWS](https://job-boards.greenhouse.io/kunai/jobs/4766447007)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/k3yoaukk0lxp9o3xzyrn.webp" width="24" height="24" alt="LendingTree logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LendingTree](https://jobo.world/company/LendingTree)
 
@@ -250,10 +248,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Don&#x27;t see what you&#x27;re looking for?  Join our Talent Network! (Data Engineering)](https://job-boards.greenhouse.io/recordedfuture/jobs/6765808002)** — _n/a_ _(posted 2025-03-30)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dc38htlnujhd1sx7rjjk.webp" width="24" height="24" alt="Replicant logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Replicant](https://jobo.world/company/Replicant)
-
-* **[Sales Engineer - Bilingual Spanish/English](https://jobs.ashbyhq.com/replicant/e5190f2f-be57-4243-a365-fc258ddfe035)** — _n/a_ _(posted 2025-06-01)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdqj75zkufregvxkop0f.webp" width="24" height="24" alt="Rescale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rescale](https://jobo.world/company/Rescale)
 
 * **[Technical Solutions Engineer](https://boards.greenhouse.io/regscale/jobs/4710909007)** — _n/a_ _(posted 2025-04-17)_
@@ -269,10 +263,13 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ztchjewjetxet4seourr.webp" width="24" height="24" alt="Solace Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Solace Health](https://jobo.world/company/Solace-Health)
 
+* **[Python Analytics Engineer](https://jobs.ashbyhq.com/solace/9665efea-e06a-41de-9527-64cad5afb3cc)** — _n/a_ _(posted 2025-06-18)_
+* **[Python Machine Learning Engineer](https://jobs.ashbyhq.com/solace/05b60cfc-c166-4527-8c8f-f3e65499114d)** — _n/a_ _(posted 2025-06-18)_
 * **[Python Data Engineer](https://jobs.ashbyhq.com/solace/f19207b3-5fad-4cd4-9a7e-5dd64fb78401)** — _n/a_ _(posted 2025-06-04)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/msxoxo4ksiqqz5qsape7.webp" width="24" height="24" alt="SpyCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SpyCloud](https://jobo.world/company/SpyCloud)
 
+* **[Senior Security Research Engineer](https://job-boards.greenhouse.io/spycloud/jobs/6608205003)** — _n/a_ _(posted 2025-06-18)_
 * **[Security Engineer, Infrastructure Security](https://job-boards.greenhouse.io/spycloud/jobs/6605814003)** — _n/a_ _(posted 2025-06-13)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zudb6wgj2v9zfl4bikwt.webp" width="24" height="24" alt="Standard Metrics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Standard Metrics](https://jobo.world/company/Standard-Metrics)
@@ -323,4 +320,4 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
 
 ---
-_Updated automatically — 2025-06-18_
+_Updated automatically — 2025-06-19_
