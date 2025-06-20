@@ -98,6 +98,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Developer Relations Engineer](https://job-boards.greenhouse.io/demandbase/jobs/6661428)** — ¤93,000 – ¤139,000 USD _(posted 2025-04-26)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xf5ojghjpfavutqum3kv.webp" width="24" height="24" alt="Deputy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Deputy](https://jobo.world/company/Deputy)
+
+* **[Technical Support Engineer III](https://jobs.lever.co/deputy/b07aa713-38fa-44e3-b46b-5dcfbe0fbbaf)** — _n/a_ _(posted 2025-06-13)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kmkx39mgdprsyv38qfhb.webp" width="24" height="24" alt="Devoted Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Devoted Health](https://jobo.world/company/Devoted-Health)
 
 * **[Principal Software Engineer](https://devoted.wd1.myworkdayjobs.com/devoted/job/Remote-USA/Principal-Software-Engineer_R2430)** — _n/a_ _(posted 2025-06-11)_
@@ -115,10 +119,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Data Analytics Engineer](https://boards.greenhouse.io/dv01/jobs/7967122002)** — _n/a_ _(posted 2025-04-22)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nuj1aprpm0ufo9wwlehb.webp" width="24" height="24" alt="eBay logo" style="vertical-align:middle"/>&nbsp;&nbsp;[eBay](https://jobo.world/company/E-Bay)
-
-* **[Frontline Engineer](https://ebay.wd5.myworkdayjobs.com/apply/job/Remote-Pennsylvania/Frontline-Engineer_R0068049-1)** — _n/a_ _(posted 2025-06-11)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/znpexukgd1finlp9p5hw.webp" width="24" height="24" alt="ElevenLabs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ElevenLabs](https://jobo.world/company/ElevenLabs)
 
 * **[Engineer (Back-End)](https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f)** — _n/a_ _(posted 2025-03-12)_
@@ -129,11 +129,19 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Senior Software Engineer (Python / Insurance SaaS)](https://job-boards.greenhouse.io/evolutioniq/jobs/5424534004)** — _n/a_ _(posted 2025-03-30)_
 * **[Senior Software Engineer, Data Engineering (Python - Insurance SaaS)](https://job-boards.greenhouse.io/evolutioniq/jobs/5424537004)** — _n/a_ _(posted 2025-03-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/argzwcefwksmmvpljfhj.webp" width="24" height="24" alt="Feather logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Feather](https://jobo.world/company/Feather)
+
+* **[Backend Software Engineer ](https://jobs.ashbyhq.com/feathr/8056b0c9-8c4c-4ad6-a09f-a2709257e400)** — ¤90,000 USD _(posted 2025-06-19)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uahhexcojokfohmfosnd.webp" width="24" height="24" alt="Flex logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flex](https://jobo.world/company/Flex)
 
 * **[Staff Software Engineer, Finance Engineering](https://job-boards.greenhouse.io/flex/jobs/4563285005)** — _n/a_ _(posted 2025-05-10)_
 * **[Staff Software Engineer, Data](https://job-boards.greenhouse.io/flex/jobs/4562885005)** — _n/a_ _(posted 2025-05-09)_
 * **[Senior Software Engineer, Data](https://job-boards.greenhouse.io/flex/jobs/4558530005)** — _n/a_ _(posted 2025-04-29)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bsmaovurtw5whly25w0f.webp" width="24" height="24" alt="Forethought logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Forethought](https://jobo.world/company/Forethought)
+
+* **[DevOps Engineer](https://job-boards.greenhouse.io/forethought/jobs/5568169004)** — _n/a_ _(posted 2025-06-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwqvzeivla8e5znv7cvw.webp" width="24" height="24" alt="Built Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Built Technologies](https://jobo.world/company/getbuilt)
 
@@ -142,7 +150,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ndsgzy63mycn4gatbqgq.webp" width="24" height="24" alt="Headspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headspace](https://jobo.world/company/Headspace)
 
 * **[Senior Software Engineer, API](https://job-boards.greenhouse.io/hs/jobs/6564350)** — ¤130,000 – ¤180,000 USD _(posted 2025-05-15)_
-* **[Software Engineer, API](https://job-boards.greenhouse.io/hs/jobs/6786108)** — ¤120,000 – ¤160,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r8wyh0t63j5qd7mgovoj.webp" width="24" height="24" alt="HealthJoy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[HealthJoy](https://jobo.world/company/HealthJoy)
 
@@ -178,7 +185,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
 
-* **[Senior Software Engineer](https://job-boards.greenhouse.io/kunai/jobs/4755843007)** — ¤140,000 – ¤175,000 USD _(posted 2025-06-18)_
 * **[Sr. Full Stack Engineer - Python, React, AWS](https://job-boards.greenhouse.io/kunai/jobs/4766447007)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/k3yoaukk0lxp9o3xzyrn.webp" width="24" height="24" alt="LendingTree logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LendingTree](https://jobo.world/company/LendingTree)
@@ -221,10 +227,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Lead Performance Engineer](https://job-boards.greenhouse.io/pinegaterenewables/jobs/6578185003)** — _n/a_ _(posted 2025-05-17)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vzo1zvm1lmreh6dobv9q.webp" width="24" height="24" alt="Postscript logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Postscript](https://jobo.world/company/Postscript)
-
-* **[Senior Software Engineer, Backend](https://job-boards.greenhouse.io/postscript/jobs/7983755002)** — _n/a_ _(posted 2025-05-06)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ablwoksvyptzo6ebnwjy.webp" width="24" height="24" alt="PriceSpider logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PriceSpider](https://jobo.world/company/PriceSpider)
 
 * **[DevOps Engineer III](https://job-boards.greenhouse.io/pricespider/jobs/8035406002)** — _n/a_ _(posted 2025-06-14)_
@@ -237,11 +239,14 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwnmkx7jqw3p2e6t0isk.webp" width="24" height="24" alt="Quora logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Quora](https://jobo.world/company/Quora)
 
+* **[Senior Software Engineer - Developer Productivity, Poe (Remote)](https://jobs.ashbyhq.com/quora/0b36c43d-a27b-4434-97d4-0e9c25c5879d)** — _n/a_ _(posted 2025-06-19)_
+* **[Senior Backend Engineer - API & Bot Creator Experience, Poe (Remote)](https://jobs.ashbyhq.com/quora/6dd48812-bda5-4616-9e87-b31ed8845b5f)** — _n/a_ _(posted 2025-06-19)_
 * **[AI Automation Engineer (Remote)](https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5)** — _n/a_ _(posted 2025-06-11)_
 * **[Senior Software Engineer - Developer Tools, Poe (Remote)](https://jobs.ashbyhq.com/quora/16c24472-7381-4f24-9faa-975f40f7a326)** — _n/a_ _(posted 2025-06-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
+* **[Software Engineer, Full Stack (Platform) ](https://jobs.ashbyhq.com/radai/c1149a4e-8c78-4731-8398-46c0b6c6d28d)** — ¤125,000 – ¤150,000 USD _(posted 2025-06-19)_
 * **[Software Engineer, Full Stack ](https://jobs.ashbyhq.com/radai/13ccec43-7bc0-4fc6-bec2-2df2d8cb7448)** — ¤125,000 – ¤150,000 USD _(posted 2025-04-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/h6wc9ahsl5jklo7wnmkt.webp" width="24" height="24" alt="Recorded Future logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Recorded Future](https://jobo.world/company/Recorded-Future)
@@ -256,10 +261,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Software Implementation Engineer, Market Expansion](https://jobs.ashbyhq.com/serverobotics/750b3216-693b-4663-9763-5f622773f4a9)** — ¤130,000 – ¤175,000 USD _(posted 2025-06-04)_
 * **[Software Engineer, Build & Developer Tools](https://jobs.ashbyhq.com/serverobotics/fae11e4e-f9f6-4cae-8400-fe7235811971)** — ¤130,000 – ¤170,000 USD _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q5xyiduwqktmohaaxudf.webp" width="24" height="24" alt="Sleeper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sleeper](https://jobo.world/company/Sleeper)
-
-* **[Production Engineer](https://jobs.ashbyhq.com/sleeper/4cb3cda4-dbc9-4398-9f69-30702516b196)** — _n/a_ _(posted 2025-05-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ztchjewjetxet4seourr.webp" width="24" height="24" alt="Solace Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Solace Health](https://jobo.world/company/Solace-Health)
 
@@ -298,6 +299,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Senior Software Engineer - Fullstack (Remote, United States) ](https://jobs.ashbyhq.com%2Fthe%2520zebra%2F8d55edd8-466d-40cc-a64d-63f7c5e4616e)** — _n/a_ _(posted 2025-05-17)_
 * **[Software Engineer II - Fullstack (Remote, United States)](https://jobs.ashbyhq.com%2Fthe%2520zebra%2F9912e93c-93cf-4df4-8a5b-bb634eb54361)** — _n/a_ _(posted 2025-05-17)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/whhxmoi8vbfjbrge1cdw.webp" width="24" height="24" alt="Timescale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Timescale](https://jobo.world/company/Timescale)
+
+* **[Data Engineer](https://jobs.ashbyhq.com/timescale/29788682-de5c-45d8-a0b8-9603c833a8d8)** — _n/a_ _(posted 2025-06-19)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wkrv8bqwzwnyiu1zirqr.webp" width="24" height="24" alt="Trunk Tools logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Trunk Tools](https://jobo.world/company/Trunk-Tools,-Inc.)
 
 * **[ML Engineer (Remote, NYC, Austin)](https://jobs.ashbyhq.com%2Ftrunk%2520tools%2F1cca011e-bc3e-4118-aa48-7c2008b7e2c1)** — ¤140,000 – ¤200,000 USD _(posted 2025-03-12)_
@@ -311,13 +316,5 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Lead Data Pipeline Engineer](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5555375004)** — _n/a_ _(posted 2025-06-06)_
 * **[Senior Software Engineer](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5548914004)** — _n/a_ _(posted 2025-05-30)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dlzrahzrpawwae1fifhh.webp" width="24" height="24" alt="Wurl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Wurl](https://jobo.world/company/Wurl)
-
-* **[Data Engineer Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4570158006)** — _n/a_ _(posted 2025-05-23)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rjsqqkoaiah93pvtgvwj.webp" width="24" height="24" alt="Zip logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zip](https://jobo.world/company/Zip-Co)
-
-* **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
-
 ---
-_Updated automatically — 2025-06-19_
+_Updated automatically — 2025-06-20_
