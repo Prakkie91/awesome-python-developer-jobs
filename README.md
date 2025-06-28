@@ -33,10 +33,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Product Engineer](https://jobs.ashbyhq.com/reteam/5cad5454-49ee-408a-8dbd-92c13f492d9e)** — ¤75,000 – ¤100,000 USD _(posted 2025-03-12)_
 * **[Backend Engineer (Remote)](https://jobs.ashbyhq.com/reteam/714121ad-59e8-49b1-ad56-244a89de574c)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ufu9ybmv5kierbneyd6z.webp" width="24" height="24" alt="Axsome Therapeutics Inc logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Axsome Therapeutics Inc](https://jobo.world/company/Axsome-Therapeutics-Inc)
-
-* **[Software Data Engineer](https://jobs.ashbyhq.com/iambic-therapeutics/ae0e2334-7250-4291-85b9-33b4e322d158)** — _n/a_ _(posted 2025-04-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ph6ruwagmcxam6qc1xb9.webp" width="24" height="24" alt="Baseten logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Baseten](https://jobo.world/company/Baseten)
 
 * **[Software Engineer - Internal Platform](https://jobs.ashbyhq.com/baseten/081cb52b-5e88-40a1-8def-1e82c8bc97de)** — ¤150,000 – ¤200,000 USD _(posted 2025-03-27)_
@@ -53,10 +49,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pvjcxr1j4tykmdpvah5a.webp" width="24" height="24" alt="Caddi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Caddi](https://jobo.world/company/Caddi)
 
 * **[Software Engineer](https://apply.workable.com/trycaddi/j/BE248EB5DF/)** — ¤120,000 – ¤160,000 USD _(posted 2025-03-05)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kbjuvkagbkxjkxj883nu.webp" width="24" height="24" alt="Chainlink Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chainlink Labs](https://jobo.world/company/Chainlink-Labs)
-
-* **[Senior IT Systems Engineer](https://jobs.ashbyhq.com/chainlink-labs/08369cd7-4c3b-48e6-95fd-b06f42f6a43a)** — _n/a_ _(posted 2025-05-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yrhltbcatnpx6bjoymt2.webp" width="24" height="24" alt="Clairo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clairo](https://jobo.world/company/Clairo)
 
@@ -164,6 +156,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Manager, Engineering](https://job-boards.greenhouse.io/healthjoy/jobs/8015473002)** — _n/a_ _(posted 2025-05-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vvbhenfduy7yertm4eqk.webp" width="24" height="24" alt="Hometap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hometap](https://jobo.world/company/Hometap)
+
+* **[Senior Software Engineer](https://job-boards.greenhouse.io/hometap/jobs/4613060007)** — _n/a_ _(posted 2025-06-27)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jsslip6bkuc18rzjcyoh.webp" width="24" height="24" alt="Instabase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Instabase](https://jobo.world/company/Instabase)
 
 * **[Senior Customer Engineer](https://job-boards.greenhouse.io/instabase/jobs/8037087002)** — _n/a_ _(posted 2025-06-14)_
@@ -265,6 +261,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Backend Engineer - Risk & Trading](https://jobs.ashbyhq.com/sleeper/8fc70a69-eb9a-40e1-a48a-c960d57c92d2)** — _n/a_ _(posted 2025-06-26)_
 * **[DevOps / QA Engineer - Risk & Trading](https://jobs.ashbyhq.com/sleeper/afc8a0dd-0156-4d05-bfd0-0007a5bcfd00)** — _n/a_ _(posted 2025-06-26)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ikyhgmloca3luk71epu4.webp" width="24" height="24" alt="SmartAsset logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SmartAsset](https://jobo.world/company/SmartAsset)
+
+* **[Senior Data Engineer](https://job-boards.greenhouse.io/smartasset/jobs/8026903002)** — _n/a_ _(posted 2025-06-27)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ztchjewjetxet4seourr.webp" width="24" height="24" alt="Solace Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Solace Health](https://jobo.world/company/Solace-Health)
 
 * **[Python Analytics Engineer](https://jobs.ashbyhq.com/solace/9665efea-e06a-41de-9527-64cad5afb3cc)** — _n/a_ _(posted 2025-06-18)_
@@ -314,4 +314,4 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Lead Data Pipeline Engineer](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5555375004)** — _n/a_ _(posted 2025-06-06)_
 
 ---
-_Updated automatically — 2025-06-27_
+_Updated automatically — 2025-06-28_
