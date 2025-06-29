@@ -112,6 +112,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Software Engineer, Safety Processing](https://job-boards.greenhouse.io/discord/jobs/7990178002)** — ¤160,000 – ¤180,000 USD _(posted 2025-05-28)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qu9jqnedghpqqymgn9qw.webp" width="24" height="24" alt="Docker logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Docker](https://jobo.world/company/Docker)
+
+* **[Senior Infrastructure Engineer](https://jobs.ashbyhq.com/docker/38b71741-bba4-48e6-91b0-3fefa4accbae)** — ¤113,200 – ¤155,700 EUR _(posted 2025-06-28)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sdfpocj9acizbzrl8sln.webp" width="24" height="24" alt="dv01 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[dv01](https://jobo.world/company/Dv01)
 
 * **[Data Analytics Engineer](https://boards.greenhouse.io/dv01/jobs/7967122002)** — _n/a_ _(posted 2025-04-22)_
@@ -172,10 +176,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Full Stack Engineer](https://jobs.ashbyhq.com/jellyfish/adced034-5f84-409d-9dab-5d45461bd8eb)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
-
-* **[Senior Backend Engineer](https://jobs.ashbyhq.com/jerry/9da6879d-343b-4671-bca3-ea4d6f799fbd)** — _n/a_ _(posted 2025-06-24)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bropegpbvpqs2ju3a360.webp" width="24" height="24" alt="Knock logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Knock](https://jobo.world/company/Knock)
 
 * **[Platform Engineer](https://jobs.ashbyhq.com/knock/beee9279-e40a-4944-ab20-dd473998b429)** — _n/a_ _(posted 2025-06-04)_
@@ -216,8 +216,11 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
 
-* **[Software Engineer, Full Stack (People Innovation)](https://jobs.ashbyhq.com/openai/d4780eac-03ad-4dae-861f-99af22b4287e)** — ¤200,000 – ¤385,000 USD _(posted 2025-03-12)_
 * **[Distributed Systems Engineer, Security](https://jobs.ashbyhq.com/openai/2632a365-969a-4966-bbee-127ede6f7742)** — ¤300,000 – ¤885,000 USD _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ius1mxcu5iwevowrje3y.webp" width="24" height="24" alt="Paytient logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Paytient](https://jobo.world/company/Paytient)
+
+* **[Sr Platform Engineer](https://job-boards.greenhouse.io/paytient/jobs/4775601007)** — _n/a_ _(posted 2025-06-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ablwoksvyptzo6ebnwjy.webp" width="24" height="24" alt="PriceSpider logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PriceSpider](https://jobo.world/company/PriceSpider)
 
@@ -314,4 +317,4 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Lead Data Pipeline Engineer](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5555375004)** — _n/a_ _(posted 2025-06-06)_
 
 ---
-_Updated automatically — 2025-06-28_
+_Updated automatically — 2025-06-29_
