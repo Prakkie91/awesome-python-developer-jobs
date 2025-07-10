@@ -320,4 +320,4 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Senior Automation Developer](https://jobs.ashbyhq.com/uipath/10bba4ad-00e9-40c4-9e23-2dcd927b81a2)** — ¤141,000 – ¤178,000 USD _(posted 2025-07-08)_
 
 ---
-_Updated automatically — 2025-07-09_
+_Updated automatically — 2025-07-10_
