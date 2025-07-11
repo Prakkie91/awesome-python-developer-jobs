@@ -6,6 +6,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 ---
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cnatltnudekb0sa5af4e.webp" width="24" height="24" alt="Addepar logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Addepar](https://jobo.world/company/Addepar)
+
+* **[Forward Deployed Engineer](https://job-boards.greenhouse.io/addepar1/jobs/7760230002)** — _n/a_ _(posted 2025-07-10)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wmjvoqj8pj4ll1g3ecls.webp" width="24" height="24" alt="Adobe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Adobe](https://jobo.world/company/Adobe)
 
 * **[Sr Developer Relations Engineer, Frame.io](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-California/Sr-Developer-Relations-Engineer--Frameio_R156562)** — _n/a_ _(posted 2025-06-25)_
@@ -143,10 +147,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Senior Data Engineer](https://job-boards.greenhouse.io/getbuilt/jobs/4534538005)** — _n/a_ _(posted 2025-04-15)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ndsgzy63mycn4gatbqgq.webp" width="24" height="24" alt="Headspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headspace](https://jobo.world/company/Headspace)
-
-* **[Senior Software Engineer, API](https://job-boards.greenhouse.io/hs/jobs/6564350)** — ¤130,000 – ¤180,000 USD _(posted 2025-05-15)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r8wyh0t63j5qd7mgovoj.webp" width="24" height="24" alt="HealthJoy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[HealthJoy](https://jobo.world/company/HealthJoy)
 
 * **[Manager, Engineering](https://job-boards.greenhouse.io/healthjoy/jobs/8015473002)** — _n/a_ _(posted 2025-05-30)_
@@ -193,10 +193,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Principal Engineer, Team Lead- Data Platform](https://job-boards.greenhouse.io/motional/jobs/6119126003)** — _n/a_ _(posted 2025-04-15)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vnzkj0v8d9iktmyqi6hv.webp" width="24" height="24" alt="Oklo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oklo](https://jobo.world/company/Oklo)
-
-* **[Mechanical Analyst Engineer](https://boards.greenhouse.io/oklo/jobs/4961080004)** — _n/a_ _(posted 2025-05-01)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
 
 * **[Distributed Systems Engineer, Security](https://jobs.ashbyhq.com/openai/2632a365-969a-4966-bbee-127ede6f7742)** — ¤300,000 – ¤885,000 USD _(posted 2025-03-12)_
@@ -226,10 +222,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Developer Support Engineer ](https://jobs.ashbyhq.com/privy/ae753507-3c0f-40f5-9779-0d6035dee941)** — _n/a_ _(posted 2025-04-29)_
 * **[Senior/Staff Infrastructure Engineer](https://jobs.ashbyhq.com/privy/c97993ab-42cc-49d1-bef2-f2905c7437ce)** — ¤170,000 – ¤250,000 USD _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bmyehdxrdv6eiphmivcv.webp" width="24" height="24" alt="Procore Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Procore Technologies](https://jobo.world/company/Procore-Technologies)
-
-* **[Senior Data Engineer](https://jobs.smartrecruiters.com/ProcoreTechnologies/744000066667495-senior-data-engineer?oga=true)** — _n/a_ _(posted 2025-06-23)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vzdl5nx8w50uyjclka0b.webp" width="24" height="24" alt="Public logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Public](https://jobo.world/company/Public)
 
 * **[API Developer Evangelist](https://job-boards.greenhouse.io/public/jobs/6625830003)** — _n/a_ _(posted 2025-07-01)_
@@ -252,6 +244,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zznxo2xrsb1vzlwmdok0.webp" width="24" height="24" alt="Red Cell Partners logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Red Cell Partners](https://jobo.world/company/RedCellPartners)
 
 * **[Senior Software Engineer (Full Stack)](https://job-boards.greenhouse.io/redcellpartners/jobs/4773651007)** — _n/a_ _(posted 2025-06-26)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xi7iziz3wk6eyva5r7qp.webp" width="24" height="24" alt="Research Innovations logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Research Innovations](https://jobo.world/company/Research-Innovations)
+
+* **[Django/Python Developer](https://apply.workable.com/resource-innovations/j/509D54B45B/)** — ¤74,000 – ¤175,000 USD _(posted 2025-07-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dchccft73peyjb9awdqi.webp" width="24" height="24" alt="Serve Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Serve Robotics](https://jobo.world/company/Serve-Robotics)
 
@@ -296,6 +292,7 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r40ajrc2uetxb7obycan.webp" width="24" height="24" alt="TetraScience logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TetraScience](https://jobo.world/company/TetraScience)
 
+* **[Scientific Data Engineer](https://apply.workable.com/tetrascience/j/EEA8E41C23/)** — _n/a_ _(posted 2025-07-09)_
 * **[Scientific Data Architect/Senior Scientific Data Architect - Boston](https://apply.workable.com/tetrascience/j/8DB5187216/)** — _n/a_ _(posted 2025-06-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nmpjang8hd7j1tvecltw.webp" width="24" height="24" alt="The Zebra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[The Zebra](https://jobo.world/company/The-Zebra)
@@ -320,4 +317,4 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Senior Automation Developer](https://jobs.ashbyhq.com/uipath/10bba4ad-00e9-40c4-9e23-2dcd927b81a2)** — ¤141,000 – ¤178,000 USD _(posted 2025-07-08)_
 
 ---
-_Updated automatically — 2025-07-10_
+_Updated automatically — 2025-07-11_
