@@ -317,4 +317,4 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Sr. Software Engineer ](https://jobs.ashbyhq.com/wisp/e02db880-6061-4e3a-bfae-127acd1094d6)** — ¤150,000 – ¤175,000 USD _(posted 2025-07-12)_
 
 ---
-_Updated automatically — 2025-07-13_
+_Updated automatically — 2025-07-14_
