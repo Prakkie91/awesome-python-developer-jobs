@@ -46,6 +46,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Backend Engineer (Remote)](https://jobs.ashbyhq.com/reteam/714121ad-59e8-49b1-ad56-244a89de574c)** — _n/a_ _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kvoglsnzr9qoignq1v12.webp" width="24" height="24" alt="Astra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Astra](https://jobo.world/company/Astra)
+
+* **[Staff Backend Engineer](https://jobs.ashbyhq.com/astra/a48834a5-d6db-4275-8e57-dc9e45e8b42f)** — _n/a_ _(posted 2025-07-16)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lix4t9xeotpsufw7mosi.webp" width="24" height="24" alt="Astronomer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Astronomer](https://jobo.world/company/Astronomer)
 
 * **[Senior Software Engineer](https://jobs.ashbyhq.com/astronomer/a82d9a1e-ac4e-4c1f-98bb-d50226ba8c41)** — _n/a_ _(posted 2025-06-21)_
@@ -106,7 +110,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Senior Software Engineer II](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4565085005)** — _n/a_ _(posted 2025-06-05)_
 * **[Senior Software Engineer](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4572855005)** — _n/a_ _(posted 2025-06-05)_
-* **[Staff Software Engineer](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4572868005)** — _n/a_ _(posted 2025-06-05)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e6q2rqxidfkrkn9dkpth.webp" width="24" height="24" alt="Demandbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Demandbase](https://jobo.world/company/Demand-Base)
 
@@ -115,6 +118,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjk0q1dyjqqswplpttmj.webp" width="24" height="24" alt="Discord logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Discord](https://jobo.world/company/Discord)
 
 * **[Software Engineer, Safety Processing](https://job-boards.greenhouse.io/discord/jobs/7990178002)** — ¤160,000 – ¤180,000 USD _(posted 2025-05-28)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qu9jqnedghpqqymgn9qw.webp" width="24" height="24" alt="Docker logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Docker](https://jobo.world/company/Docker)
+
+* **[Growth Engineer](https://jobs.ashbyhq.com/docker/dc7b8b87-54fa-458c-ad70-615c35ac2871)** — ¤172,000 – ¤215,000 USD _(posted 2025-07-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/a4sle3t06tagovmvqcnu.webp" width="24" height="24" alt="DoubleVerify logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DoubleVerify](https://jobo.world/company/DoubleVerify)
 
@@ -137,7 +144,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wpkaroszpgkzglupy3hh.webp" width="24" height="24" alt="EvolutionIQ logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EvolutionIQ](https://jobo.world/company/EvolutionIQ)
 
 * **[Senior Software Engineer (Python / Insurance SaaS)](https://job-boards.greenhouse.io/evolutioniq/jobs/5424534004)** — _n/a_ _(posted 2025-03-30)_
-* **[Senior Software Engineer, Data Engineering (Python - Insurance SaaS)](https://job-boards.greenhouse.io/evolutioniq/jobs/5424537004)** — _n/a_ _(posted 2025-03-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/argzwcefwksmmvpljfhj.webp" width="24" height="24" alt="Feather logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Feather](https://jobo.world/company/Feather)
 
@@ -163,13 +169,13 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Full Stack Engineer](https://jobs.ashbyhq.com/jellyfish/adced034-5f84-409d-9dab-5d45461bd8eb)** — _n/a_ _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
+
+* **[Software Engineer I (San Francisco)](https://jobs.ashbyhq.com/jerry/f53d2639-f7ad-4aa5-b17a-08f4e5a00882)** — _n/a_ _(posted 2025-07-15)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bxtb3il1qhhrkcpc1lfa.webp" width="24" height="24" alt="Kalepa logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalepa](https://jobo.world/company/Kalepa)
 
 * **[Senior Backend Engineer (USA)](https://boards.greenhouse.io/kalepa/jobs/4058343004)** — ¤170,000 – ¤205,000 USD _(posted 2025-03-14)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
-
-* **[Senior Software Engineer, KSM (SDKs & Integrations)](https://apply.workable.com/keepersecurity/j/5008E2280F/)** — _n/a_ _(posted 2025-06-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/k3yoaukk0lxp9o3xzyrn.webp" width="24" height="24" alt="LendingTree logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LendingTree](https://jobo.world/company/LendingTree)
 
@@ -322,10 +328,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Software Engineer, Product Strategy (Contractor)](https://job-boards.greenhouse.io/tailscale/jobs/4576791005)** — _n/a_ _(posted 2025-06-19)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgwkzmyi2yqa4207echj.webp" width="24" height="24" alt="Thermo Fisher Scientific logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thermo Fisher Scientific](https://jobo.world/company/Thermo-Fisher-Scientific)
-
-* **[Sr. Developer](https://thermofisher.wd5.myworkdayjobs.com/thermofishercareers/job/Remote-Massachusetts-USA/Sr-Developer_R-01323533)** — _n/a_ _(posted 2025-07-11)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nr08qvrebq29qlbzjr6e.webp" width="24" height="24" alt="Thrive Market logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thrive Market](https://jobo.world/company/Thrive-Market)
 
 * **[Senior Software Engineer, Backend](https://jobs.lever.co/thrivemarket/4e03fafa-207d-4416-a074-e87251f81668)** — _n/a_ _(posted 2025-06-10)_
@@ -338,6 +340,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[NLP Engineer](https://jobs.ashbyhq.com%2Ftrunk%2520tools%2F126e3070-2ade-4fdb-897d-55f0fd7a0785)** — ¤140,000 – ¤200,000 USD _(posted 2025-07-01)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ue3fwejoinxv3npuikqw.webp" width="24" height="24" alt="Two Six Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Two Six Technologies](https://jobo.world/company/Two-Six-Technologies)
+
+* **[Full Stack Data Collection Lead](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5589839004)** — _n/a_ _(posted 2025-07-16)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pp9a1vcfqxflxrhibamz.webp" width="24" height="24" alt="Vercel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vercel](https://jobo.world/company/Vercel)
 
 * **[Software Engineer, Ecosystem](https://job-boards.greenhouse.io/vercel/jobs/5387745004)** — ¤196,000 – ¤294,000 USD _(posted 2025-04-15)_
@@ -347,4 +353,4 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Sr. Software Engineer ](https://jobs.ashbyhq.com/wisp/e02db880-6061-4e3a-bfae-127acd1094d6)** — ¤150,000 – ¤175,000 USD _(posted 2025-07-12)_
 
 ---
-_Updated automatically — 2025-07-16_
+_Updated automatically — 2025-07-17_
