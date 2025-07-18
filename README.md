@@ -13,7 +13,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xjv7yomvmvgq2zcdvckv.webp" width="24" height="24" alt="Affirm logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Affirm](https://jobo.world/company/Affirm)
 
 * **[Senior Software Engineer, Backend (Batch Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/6618078003)** — _n/a_ _(posted 2025-07-03)_
-* **[Senior Software Engineer, Backend (OpenLoop BNPL)](https://job-boards.greenhouse.io/affirm/jobs/6620784003)** — _n/a_ _(posted 2025-06-27)_
 * **[Software Engineer II](https://job-boards.greenhouse.io/affirm/jobs/6555054003)** — _n/a_ _(posted 2025-05-02)_
 * **[Senior Staff Software Engineer, Backend (Discovery / Search)](https://job-boards.greenhouse.io/affirm/jobs/6494232003)** — _n/a_ _(posted 2025-04-24)_
 
@@ -177,6 +176,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Senior Backend Engineer (USA)](https://boards.greenhouse.io/kalepa/jobs/4058343004)** — ¤170,000 – ¤205,000 USD _(posted 2025-03-14)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
+
+* **[Software Engineer - Python](https://job-boards.greenhouse.io/kunai/jobs/4788583007)** — _n/a_ _(posted 2025-07-17)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/k3yoaukk0lxp9o3xzyrn.webp" width="24" height="24" alt="LendingTree logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LendingTree](https://jobo.world/company/LendingTree)
 
 * **[Senior Software Engineer, Digital Workplace](https://job-boards.greenhouse.io/lendingtree/jobs/6750980)** — _n/a_ _(posted 2025-03-30)_
@@ -219,7 +222,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zvn1ylulhsyyowqu95ym.webp" width="24" height="24" alt="PatientPoint logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PatientPoint](https://jobo.world/company/PatientPoint)
 
-* **[Staff Software Engineer - Ad Tech](https://job-boards.greenhouse.io/patientpoint/jobs/4582790005)** — _n/a_ _(posted 2025-07-08)_
 * **[Join Our Talent Community](https://job-boards.greenhouse.io/patientpoint/jobs/4243761005)** — _n/a_ _(posted 2025-03-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mvi4ljeaebdhijrpbciu.webp" width="24" height="24" alt="Pear VC logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pear VC](https://jobo.world/company/PearVC)
@@ -352,5 +354,9 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Sr. Software Engineer ](https://jobs.ashbyhq.com/wisp/e02db880-6061-4e3a-bfae-127acd1094d6)** — ¤150,000 – ¤175,000 USD _(posted 2025-07-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dkj6ipzrzwyjesvh2iqc.webp" width="24" height="24" alt="Zoom logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zoom](https://jobo.world/company/Zoom)
+
+* **[Data Engineer](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Data-Engineer_R16908-1)** — _n/a_ _(posted 2025-07-16)_
+
 ---
-_Updated automatically — 2025-07-17_
+_Updated automatically — 2025-07-18_
