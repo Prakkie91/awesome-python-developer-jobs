@@ -61,6 +61,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Software Engineer - Internal Platform](https://jobs.ashbyhq.com/baseten/081cb52b-5e88-40a1-8def-1e82c8bc97de)** — ¤150,000 – ¤200,000 USD _(posted 2025-03-27)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oumok0ehxaevgoxf1va5.webp" width="24" height="24" alt="Believer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Believer](https://jobo.world/company/Believer)
+
+* **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000071341965-software-engineer?oga=true)** — _n/a_ _(posted 2025-07-17)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gpfc82azslc17w3xudzi.webp" width="24" height="24" alt="Bestow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bestow](https://jobo.world/company/Bestow)
 
 * **[Staff Backend Engineer (Python)](https://jobs.ashbyhq.com/bestow/de327351-e72b-4241-8138-a76191eb140a)** — ¤180,000 – ¤225,000 USD _(posted 2025-05-10)_
@@ -72,10 +76,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pvjcxr1j4tykmdpvah5a.webp" width="24" height="24" alt="Caddi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Caddi](https://jobo.world/company/Caddi)
 
 * **[Software Engineer](https://apply.workable.com/trycaddi/j/BE248EB5DF/)** — ¤120,000 – ¤160,000 USD _(posted 2025-03-05)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ip5pf6ew5hvfz7juafjm.webp" width="24" height="24" alt="Clerk logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clerk](https://jobo.world/company/Clerk)
-
-* **[Developer Relations Engineer](https://jobs.ashbyhq.com/clerk/5e899b61-1dcc-4c8e-83af-5e67d8ec1387)** — _n/a_ _(posted 2025-05-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcrsxaub94nntp5gtnjk.webp" width="24" height="24" alt="Clickhouse logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clickhouse](https://jobo.world/company/Clickhouse)
 
@@ -140,6 +140,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Software Engineer, AI](https://job-boards.greenhouse.io/entera/jobs/8056380002)** — _n/a_ _(posted 2025-07-01)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ukb2l72y2nmpoy7oo6wf.webp" width="24" height="24" alt="Eventbrite logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Eventbrite](https://jobo.world/company/Eventbrite)
+
+* **[Software Engineer I](https://job-boards.greenhouse.io/eventbriteinc/jobs/4786261007)** — _n/a_ _(posted 2025-07-18)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wpkaroszpgkzglupy3hh.webp" width="24" height="24" alt="EvolutionIQ logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EvolutionIQ](https://jobo.world/company/EvolutionIQ)
 
 * **[Senior Software Engineer (Python / Insurance SaaS)](https://job-boards.greenhouse.io/evolutioniq/jobs/5424534004)** — _n/a_ _(posted 2025-03-30)_
@@ -175,10 +179,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bxtb3il1qhhrkcpc1lfa.webp" width="24" height="24" alt="Kalepa logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalepa](https://jobo.world/company/Kalepa)
 
 * **[Senior Backend Engineer (USA)](https://boards.greenhouse.io/kalepa/jobs/4058343004)** — ¤170,000 – ¤205,000 USD _(posted 2025-03-14)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
-
-* **[Software Engineer - Python](https://job-boards.greenhouse.io/kunai/jobs/4788583007)** — _n/a_ _(posted 2025-07-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/k3yoaukk0lxp9o3xzyrn.webp" width="24" height="24" alt="LendingTree logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LendingTree](https://jobo.world/company/LendingTree)
 
@@ -301,6 +301,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Backend Engineer - Risk & Trading](https://jobs.ashbyhq.com/sleeper/8fc70a69-eb9a-40e1-a48a-c960d57c92d2)** — _n/a_ _(posted 2025-06-26)_
 * **[Senior Backend Engineer](https://jobs.ashbyhq.com/sleeper/6da4cd83-d932-4c44-a507-02c5ba738d12)** — _n/a_ _(posted 2025-05-28)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ikyhgmloca3luk71epu4.webp" width="24" height="24" alt="SmartAsset logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SmartAsset](https://jobo.world/company/SmartAsset)
+
+* **[ML Engineer](https://job-boards.greenhouse.io/smartasset/jobs/8059030002)** — _n/a_ _(posted 2025-07-18)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ztchjewjetxet4seourr.webp" width="24" height="24" alt="Solace Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Solace Health](https://jobo.world/company/Solace-Health)
 
 * **[Python Analytics Engineer](https://jobs.ashbyhq.com/solace/9665efea-e06a-41de-9527-64cad5afb3cc)** — _n/a_ _(posted 2025-06-18)_
@@ -350,13 +354,9 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Software Engineer, Ecosystem](https://job-boards.greenhouse.io/vercel/jobs/5387745004)** — ¤196,000 – ¤294,000 USD _(posted 2025-04-15)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/onmttatfxuagaif2vjrj.webp" width="24" height="24" alt="Wise logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Wise](https://jobo.world/company/Wise)
-
-* **[Sr. Software Engineer ](https://jobs.ashbyhq.com/wisp/e02db880-6061-4e3a-bfae-127acd1094d6)** — ¤150,000 – ¤175,000 USD _(posted 2025-07-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dkj6ipzrzwyjesvh2iqc.webp" width="24" height="24" alt="Zoom logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zoom](https://jobo.world/company/Zoom)
 
 * **[Data Engineer](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Data-Engineer_R16908-1)** — _n/a_ _(posted 2025-07-16)_
 
 ---
-_Updated automatically — 2025-07-18_
+_Updated automatically — 2025-07-19_
