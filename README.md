@@ -131,6 +131,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Software Engineering I (Remote - US)](https://job-boards.greenhouse.io/energysolutions/jobs/4762099007)** — _n/a_ _(posted 2025-07-22)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r9hlj0zldgkdt3f3d6xr.webp" width="24" height="24" alt="Entera logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Entera](https://jobo.world/company/Entera)
+
+* **[Software Engineer, AI](https://job-boards.greenhouse.io/entera/jobs/8056380002)** — _n/a_ _(posted 2025-07-01)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wpkaroszpgkzglupy3hh.webp" width="24" height="24" alt="EvolutionIQ logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EvolutionIQ](https://jobo.world/company/EvolutionIQ)
 
 * **[Senior Software Engineer (Python / Insurance SaaS)](https://job-boards.greenhouse.io/evolutioniq/jobs/5424534004)** — _n/a_ _(posted 2025-03-30)_
@@ -163,6 +167,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjgangrpf64vx7s78vmf.webp" width="24" height="24" alt="Jellyfish logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jellyfish](https://jobo.world/company/Jellyfish)
 
 * **[Full Stack Engineer](https://jobs.ashbyhq.com/jellyfish/adced034-5f84-409d-9dab-5d45461bd8eb)** — _n/a_ _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
+
+* **[Software Engineer I (San Francisco)](https://jobs.ashbyhq.com/jerry/8c751f13-33de-429b-9cb8-3c58bea0d904)** — _n/a_ _(posted 2025-07-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bxtb3il1qhhrkcpc1lfa.webp" width="24" height="24" alt="Kalepa logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalepa](https://jobo.world/company/Kalepa)
 
@@ -229,10 +237,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Software Engineer, Automated Mosaics](https://job-boards.greenhouse.io/planetlabs/jobs/7013649)** — _n/a_ _(posted 2025-07-11)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eh6ujvleqqlksv3spdzl.webp" width="24" height="24" alt="Plotly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Plotly](https://jobo.world/company/Plotly)
-
-* **[Senior Full Stack Software Engineer- AI](https://job-boards.greenhouse.io/plotly/jobs/8041949002)** — _n/a_ _(posted 2025-06-19)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/s3mpd6gnaiko8afxvbn4.webp" width="24" height="24" alt="Pocket Worlds logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pocket Worlds](https://jobo.world/company/Pocket-Worlds)
 
 * **[Lead Backend Engineer](https://jobs.ashbyhq.com%2Fpocket%2520worlds%2F7f3f72f1-1ae9-4e82-9070-cb7b44f9e298)** — ¤130,000 – ¤200,000 USD _(posted 2025-04-04)_
@@ -248,10 +252,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/orgyypffafltnovk03jw.webp" width="24" height="24" alt="PostHog logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PostHog](https://jobo.world/company/PostHog)
 
 * **[Product Engineer](https://jobs.ashbyhq.com/posthog/1ed75800-ae61-4457-a85c-9eeca0a470c4)** — _n/a_ _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bmyehdxrdv6eiphmivcv.webp" width="24" height="24" alt="Procore Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Procore Technologies](https://jobo.world/company/Procore-Technologies)
-
-* **[Senior Data Engineer](https://jobs.smartrecruiters.com/ProcoreTechnologies/744000066667495-senior-data-engineer?oga=true)** — _n/a_ _(posted 2025-06-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwnmkx7jqw3p2e6t0isk.webp" width="24" height="24" alt="Quora logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Quora](https://jobo.world/company/Quora)
 
@@ -344,4 +344,4 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Full Stack Engineer](https://apply.workable.com/vouched/j/F0C5DAF359/)** — ¤150 – ¤150 USD _(posted 2025-04-23)_
 
 ---
-_Updated automatically — 2025-07-26_
+_Updated automatically — 2025-07-27_
