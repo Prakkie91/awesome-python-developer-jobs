@@ -233,10 +233,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Full Stack Software Engineer](https://apply.workable.com/performyard/j/8147038392/)** — _n/a_ _(posted 2024-12-17)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fieozdkgodqccwlxz8fy.webp" width="24" height="24" alt="Planet logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Planet](https://jobo.world/company/Planet)
-
-* **[Software Engineer, Automated Mosaics](https://job-boards.greenhouse.io/planetlabs/jobs/7013649)** — _n/a_ _(posted 2025-07-11)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/s3mpd6gnaiko8afxvbn4.webp" width="24" height="24" alt="Pocket Worlds logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pocket Worlds](https://jobo.world/company/Pocket-Worlds)
 
 * **[Lead Backend Engineer](https://jobs.ashbyhq.com%2Fpocket%2520worlds%2F7f3f72f1-1ae9-4e82-9070-cb7b44f9e298)** — ¤130,000 – ¤200,000 USD _(posted 2025-04-04)_
@@ -281,13 +277,16 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Software Engineer - AI Products](https://jobs.ashbyhq.com/sardine/f1d28d19-16d4-44af-85dd-3a5277a09375)** — ¤170,000 – ¤220,000 USD _(posted 2025-03-13)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpnegihud3dkfip35hd9.webp" width="24" height="24" alt="SentiLink logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SentiLink](https://jobo.world/company/SentiLink)
+
+* **[Full Stack Engineer](https://jobs.ashbyhq.com/sentilink/ec10e262-075e-495e-8533-0d069911a754)** — _n/a_ _(posted 2025-07-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dchccft73peyjb9awdqi.webp" width="24" height="24" alt="Serve Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Serve Robotics](https://jobo.world/company/Serve-Robotics)
 
 * **[Full-Stack Software Engineer, Internal Services](https://jobs.ashbyhq.com/serverobotics/3cd15216-68ba-40e3-91a2-17e3817db7f0)** — ¤175,000 – ¤230,000 USD _(posted 2025-05-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q5xyiduwqktmohaaxudf.webp" width="24" height="24" alt="Sleeper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sleeper](https://jobo.world/company/Sleeper)
 
-* **[Backend & Data Engineer - Risk & Trading](https://jobs.ashbyhq.com/sleeper/3993caba-2a07-485c-9e3b-09076016341a)** — _n/a_ _(posted 2025-06-26)_
 * **[Backend Engineer - Risk & Trading](https://jobs.ashbyhq.com/sleeper/8fc70a69-eb9a-40e1-a48a-c960d57c92d2)** — _n/a_ _(posted 2025-06-26)_
 * **[Senior Backend Engineer](https://jobs.ashbyhq.com/sleeper/6da4cd83-d932-4c44-a507-02c5ba738d12)** — _n/a_ _(posted 2025-05-28)_
 
@@ -303,6 +302,10 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Software Engineer (Backend)](https://job-boards.greenhouse.io/standardmetrics/jobs/4568073005)** — _n/a_ _(posted 2025-05-24)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tkzoeuprdcsvlmiqsqk0.webp" width="24" height="24" alt="Substack logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Substack](https://jobo.world/company/Substack)
+
+* **[Artificial Intelligence (AI) Engineers](https://apply.workable.com/getsubstance/j/587184A15D/)** — _n/a_ _(posted 2025-01-21)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/x0na55ho7celprngtmhl.webp" width="24" height="24" alt="Suno logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Suno](https://jobo.world/company/Suno)
 
 * **[Senior Engineer](https://job-boards.greenhouse.io/applytosuno/jobs/4528378004)** — _n/a_ _(posted 2025-04-15)_
@@ -310,10 +313,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w4ks1qx6ryiurq7yzq6z.webp" width="24" height="24" alt="Swish Analytics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Swish Analytics](https://jobo.world/company/SwishAnalytics)
 
 * **[Staff Software Engineer](https://job-boards.greenhouse.io/swishanalytics/jobs/4441507005)** — ¤140,000 USD _(posted 2025-04-30)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cbqseb7qanoppr64ffdp.webp" width="24" height="24" alt="Tailscale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tailscale](https://jobo.world/company/Tailscale)
-
-* **[Software Engineer, Product Strategy (Contractor)](https://job-boards.greenhouse.io/tailscale/jobs/4576791005)** — _n/a_ _(posted 2025-06-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nr08qvrebq29qlbzjr6e.webp" width="24" height="24" alt="Thrive Market logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thrive Market](https://jobo.world/company/Thrive-Market)
 
@@ -343,5 +342,9 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Full Stack Engineer](https://apply.workable.com/vouched/j/F0C5DAF359/)** — ¤150 – ¤150 USD _(posted 2025-04-23)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dkj6ipzrzwyjesvh2iqc.webp" width="24" height="24" alt="Zoom logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zoom](https://jobo.world/company/Zoom)
+
+* **[Data Engineer](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Data-Engineer_R16908-1)** — _n/a_ _(posted 2025-07-16)_
+
 ---
-_Updated automatically — 2025-07-30_
+_Updated automatically — 2025-07-31_
