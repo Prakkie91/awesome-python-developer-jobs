@@ -14,6 +14,7 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Software Engineer II, Backend (Loan Originations &amp; Reporting)](https://job-boards.greenhouse.io/affirm/jobs/6652518003)** — _n/a_ _(posted 2025-07-24)_
 * **[Staff Software Engineer, Backend (Code to Environments)](https://job-boards.greenhouse.io/affirm/jobs/6644732003)** — _n/a_ _(posted 2025-07-23)_
+* **[Senior Software Engineer, Backend (Batch Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/6618078003)** — _n/a_ _(posted 2025-07-03)_
 * **[Software Engineer II](https://job-boards.greenhouse.io/affirm/jobs/6555054003)** — _n/a_ _(posted 2025-05-02)_
 * **[Software Engineer II, Backend (ML Platform)](https://job-boards.greenhouse.io/affirm/jobs/6482668003)** — _n/a_ _(posted 2025-05-01)_
 * **[Senior Staff Software Engineer, Backend (Discovery / Search)](https://job-boards.greenhouse.io/affirm/jobs/6494232003)** — _n/a_ _(posted 2025-04-24)_
@@ -65,7 +66,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oumok0ehxaevgoxf1va5.webp" width="24" height="24" alt="Believer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Believer](https://jobo.world/company/Believer)
 
 * **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000072053526-software-engineer)** — _n/a_ _(posted 2025-07-22)_
-* **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000071341965-software-engineer?oga=true)** — _n/a_ _(posted 2025-07-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gpfc82azslc17w3xudzi.webp" width="24" height="24" alt="Bestow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bestow](https://jobo.world/company/Bestow)
 
@@ -120,6 +120,7 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dk4b0wh7a7bjmrawfziu.webp" width="24" height="24" alt="DroneDeploy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DroneDeploy](https://jobo.world/company/DroneDeploy)
 
+* **[Software Engineer, GTM AI](https://jobs.lever.co/dronedeploy/a2a23d6c-7d07-4cfa-85e6-5de39b03cb0c)** — _n/a_ _(posted 2025-06-11)_
 * **[Senior Software Engineer, Fullstack (USA)](https://jobs.lever.co/dronedeploy/54cd8734-e887-4996-8efc-246061eef527)** — _n/a_ _(posted 2025-06-05)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/znpexukgd1finlp9p5hw.webp" width="24" height="24" alt="ElevenLabs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ElevenLabs](https://jobo.world/company/ElevenLabs)
@@ -237,10 +238,6 @@ Browse a wide range of remote Python Developer positions available globally. New
 
 * **[Full Stack Software Engineer](https://apply.workable.com/performyard/j/8147038392/)** — _n/a_ _(posted 2024-12-17)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/s3mpd6gnaiko8afxvbn4.webp" width="24" height="24" alt="Pocket Worlds logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pocket Worlds](https://jobo.world/company/Pocket-Worlds)
-
-* **[Lead Backend Engineer](https://jobs.ashbyhq.com%2Fpocket%2520worlds%2F7f3f72f1-1ae9-4e82-9070-cb7b44f9e298)** — ¤130,000 – ¤200,000 USD _(posted 2025-04-04)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ouaczxlwlkcqf2eimdw2.webp" width="24" height="24" alt="PointClickCare logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PointClickCare](https://jobo.world/company/PointClickCare)
 
 * **[Intermediate Automation and Security Engineer](https://jobs.lever.co/pointclickcare/dfb8f839-f76c-4632-b96c-b7e982ddf3f3)** — _n/a_ _(posted 2025-07-04)_
@@ -350,4 +347,4 @@ Browse a wide range of remote Python Developer positions available globally. New
 * **[Full Stack Engineer](https://apply.workable.com/vouched/j/F0C5DAF359/)** — ¤150 – ¤150 USD _(posted 2025-04-23)_
 
 ---
-_Updated automatically — 2025-08-01_
+_Updated automatically — 2025-08-02_
